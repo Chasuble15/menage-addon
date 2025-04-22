@@ -1,12 +1,12 @@
-name: "Ménage"
+name: "Menage"
 version: "1.0"
 slug: "menage"
-description: "Organisation des tâches ménagères : 15 minutes par jour"
+description: "Organisation des taches menageres : 15 minutes par jour"
 startup: application
 boot: auto
 ingress: true
 ingress_port: 8099
 panel_icon: "mdi:broom"
-panel_title: "Ménage"
+panel_title: "Menage"
 hassio_api: false
 host_network: true
