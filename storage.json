@@ -1,0 +1,15 @@
+{
+  "queue": [],
+  "hebdo": [
+    "Passer l'aspirateur",
+    "Nettoyer la salle de bain",
+    "Changer les draps",
+    "Essuyer la cuisine"
+  ],
+  "mensuel": [
+    "Nettoyer les vitres",
+    "Détartrer la machine à café",
+    "Ranger la cave"
+  ],
+  "day_counter": 0
+}
